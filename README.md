@@ -9,6 +9,7 @@ Today I Liked Links
 - [Async React Basics with Redux-thunk & Redux-saga - DEV Community 👩‍💻👨‍💻](https://dev.to/bnorbertjs/async-react-basics-with-redux-thunk--redux-saga-4af7) 
 - [News API - A JSON API for live news and blog articles](https://newsapi.org/) 
 - [Redux-Thunk vs. Redux-Saga](https://decembersoft.com/posts/redux-thunk-vs-redux-saga/) 
+- [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](https://emojipedia.org/) 
 ### July 25, 2019 
 - [Absolute imports with Create React App - By](https://hackernoon.com/absolute-imports-with-create-react-app-4c6cfb66c35d) 
 - [Importing a Component · Create React App](https://facebook.github.io/create-react-app/docs/importing-a-component#absolute-imports) 
