@@ -6,6 +6,7 @@ Today I Liked Links
 
 ### July 31, 2019 
 - [React Hooks and observables/Rx.js - StateOfJs 2019 - Hashnode](https://hashnode.com/post/react-hooks-and-observablesrxjs-stateofjs-2019-cjpnts71z00vko2s1sritpxng) 
+- [Redux-Observable Epics vs Redux-Sagas - Red Shift](https://shift.infinite.red/redux-observable-epics-vs-redux-sagas-8e53610c0eda) 
 ### July 30, 2019 
 - [cssgr.id | An interactive CSS Grid code tool and generator](https://cssgr.id/) 
 - [5 Ways to Convert React Class Components to Functional Components w/ React Hooks ― Scotch.io](https://scotch.io/tutorials/5-ways-to-convert-react-class-components-to-functional-components-w-react-hooks) 
