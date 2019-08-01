@@ -8,6 +8,7 @@ Today I Liked Links
 ### August 1, 2019 
 - [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/) 
 - [Native Modals on the Web Using the HTML Dialog Element ← Alligator.io](https://alligator.io/html/dialog-element/) 
+- [Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs](https://tailwindcss.com/) 
 ### July 31, 2019 
 - [React Hooks and observables/Rx.js - StateOfJs 2019 - Hashnode](https://hashnode.com/post/react-hooks-and-observablesrxjs-stateofjs-2019-cjpnts71z00vko2s1sritpxng) 
 - [Redux-Observable Epics vs Redux-Sagas - Red Shift](https://shift.infinite.red/redux-observable-epics-vs-redux-sagas-8e53610c0eda) 
