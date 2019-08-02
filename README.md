@@ -8,6 +8,7 @@ Today I Liked Links
 
 ### August 2, 2019 
 - [Using Cookies with React, Redux and React Router 4 - Ross Bulat - Medium](https://medium.com/@rossbulat/using-cookies-in-react-redux-and-react-router-4-f5f6079905dc) 
+- [React tips — Higher Order Components - Leonardo Bruno Lima - Medium](https://medium.com/@leonardobrunolima/react-tips-higher-order-components-ac9c758050bf) 
 ### August 1, 2019 
 - [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/) 
 - [Native Modals on the Web Using the HTML Dialog Element ← Alligator.io](https://alligator.io/html/dialog-element/) 
