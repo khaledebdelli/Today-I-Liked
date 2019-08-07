@@ -6,6 +6,9 @@ Today I Liked Links
 
 
 
+
+### August 7, 2019 
+- [Do React Hooks Replace Higher Order Components (HOCs)?](https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58) 
 ### August 2, 2019 
 - [Using Cookies with React, Redux and React Router 4 - Ross Bulat - Medium](https://medium.com/@rossbulat/using-cookies-in-react-redux-and-react-router-4-f5f6079905dc) 
 - [React tips — Higher Order Components - Leonardo Bruno Lima - Medium](https://medium.com/@leonardobrunolima/react-tips-higher-order-components-ac9c758050bf) 
