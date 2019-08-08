@@ -10,6 +10,7 @@ Today I Liked Links
 
 ### August 8, 2019 
 - [HN Search powered by Algolia](https://hn.algolia.com/api) 
+- [Simple and Manual Alternative to redux-persist for token based persistent login](https://medium.com/@faysal515/simple-and-manual-alternative-to-redux-persist-for-token-based-persistent-login-e0f91718944e) 
 ### August 7, 2019 
 - [Do React Hooks Replace Higher Order Components (HOCs)?](https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58) 
 - [A Gentle Introduction to Higher-Order Components in React](https://code.tutsplus.com/tutorials/a-gentle-introduction-to-higher-order-components-in-react--cms-30094) 
