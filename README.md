@@ -8,6 +8,9 @@ Today I Liked Links
 
 
 
+
+### August 9, 2019 
+- [React Hooks is the functional paradise you’ve been waiting for](https://medium.com/capbase-engineering/react-hooks-is-the-functional-paradise-youve-been-waiting-for-994e53f65f94) 
 ### August 8, 2019 
 - [HN Search powered by Algolia](https://hn.algolia.com/api) 
 - [Simple and Manual Alternative to redux-persist for token based persistent login](https://medium.com/@faysal515/simple-and-manual-alternative-to-redux-persist-for-token-based-persistent-login-e0f91718944e) 
