@@ -9,6 +9,9 @@ Today I Liked Links
 
 
 
+
+### August 15, 2019 
+- [Starter Kits – React](https://reactjs.org/community/starter-kits.html) 
 ### August 9, 2019 
 - [React Hooks is the functional paradise you’ve been waiting for](https://medium.com/capbase-engineering/react-hooks-is-the-functional-paradise-youve-been-waiting-for-994e53f65f94) 
 ### August 8, 2019 
