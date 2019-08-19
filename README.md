@@ -13,6 +13,7 @@ Today I Liked Links
 
 ### August 19, 2019 
 - [4. Four ways to style react components - codeburst](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822) 
+- [Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 — Smashing Magazine](https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/) 
 ### August 15, 2019 
 - [Starter Kits – React](https://reactjs.org/community/starter-kits.html) 
 ### August 9, 2019 
