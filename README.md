@@ -13,6 +13,9 @@ Today I Liked Links
 
 
 
+
+### August 26, 2019 
+- [Structuring React Projects](https://survivejs.com/react/advanced-techniques/structuring-react-projects/) 
 ### August 22, 2019 
 - [A Guide to JSON-LD for Beginners - Moz](https://moz.com/blog/json-ld-for-beginners) 
 - [ReactJS Front-end](https://classroom.google.com/u/1/c/MjA3NzE3MTA5MjJa) 
