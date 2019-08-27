@@ -14,6 +14,9 @@ Today I Liked Links
 
 
 
+
+### August 27, 2019 
+- [GraphQL Types and Relationships - Software Insight - Medium](https://medium.com/software-insight/graphql-types-and-relationships-cbb046a541c4) 
 ### August 26, 2019 
 - [Structuring React Projects](https://survivejs.com/react/advanced-techniques/structuring-react-projects/) 
 - [Exploring different GraphQL Clients - Open GraphQL - Medium](https://medium.com/open-graphql/exploring-different-graphql-clients-d1bc69de305f) 
