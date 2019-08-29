@@ -15,6 +15,9 @@ Today I Liked Links
 
 
 
+
+### August 29, 2019 
+- [Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 — Smashing Magazine](https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/) 
 ### August 27, 2019 
 - [GraphQL Types and Relationships - Software Insight - Medium](https://medium.com/software-insight/graphql-types-and-relationships-cbb046a541c4) 
 ### August 26, 2019 
