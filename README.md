@@ -16,6 +16,9 @@ Today I Liked Links
 
 
 
+
+### September 3, 2019 
+- [User permission and Symfony Validator - Smaine Milianni - Medium](https://medium.com/@smaine.milianni/user-permission-and-symfony-validator-12b2c31d7817) 
 ### August 29, 2019 
 - [Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 — Smashing Magazine](https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/) 
 ### August 27, 2019 
