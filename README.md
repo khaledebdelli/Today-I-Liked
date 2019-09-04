@@ -17,6 +17,9 @@ Today I Liked Links
 
 
 
+
+### September 4, 2019 
+- [joshtynjala/semantic-ui-react-typescript-examples: Several examples using Semantic UI, React, and TypeScript](https://github.com/joshtynjala/semantic-ui-react-typescript-examples) 
 ### September 3, 2019 
 - [User permission and Symfony Validator - Smaine Milianni - Medium](https://medium.com/@smaine.milianni/user-permission-and-symfony-validator-12b2c31d7817) 
 ### August 29, 2019 
