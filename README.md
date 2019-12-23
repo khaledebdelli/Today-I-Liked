@@ -21,6 +21,7 @@ Today I Liked Links
 
 ### December 23, 2019 
 - [Elements of design | Design Defined | InVision](https://www.invisionapp.com/design-defined/elements-of-design/) 
+- [Elements of design | Design Defined | InVision](https://www.invisionapp.com/design-defined/elements-of-design/) 
 ### September 4, 2019 
 - [joshtynjala/semantic-ui-react-typescript-examples: Several examples using Semantic UI, React, and TypeScript](https://github.com/joshtynjala/semantic-ui-react-typescript-examples) 
 ### September 3, 2019 
