@@ -22,6 +22,7 @@ Today I Liked Links
 
 ### January 16, 2020 
 - [Maintain Aspect Ratio Mixin | CSS-Tricks](https://css-tricks.com/snippets/sass/maintain-aspect-ratio-mixin/) 
+- [Mixin to Manage Breakpoints | CSS-Tricks](https://css-tricks.com/snippets/sass/mixin-manage-breakpoints/) 
 ### December 23, 2019 
 - [Elements of design | Design Defined | InVision](https://www.invisionapp.com/design-defined/elements-of-design/) 
 ### September 4, 2019 
