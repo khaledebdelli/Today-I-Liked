@@ -24,6 +24,7 @@ Today I Liked Links
 
 ### January 21, 2020 
 - [MySQL User Permissions](https://flaviocopes.com/mysql-user-permissions/) 
+- [Scalable Redux architecture for React Projects with Redux-Saga and Typescript](https://itnext.io/scalable-redux-architecture-for-react-projects-with-redux-saga-and-typescript-f6afe1dece9b) 
 ### January 20, 2020 
 - [How to enable ES6 (and beyond) syntax with Node and Express](https://www.freecodecamp.org/news/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab/) 
 ### January 16, 2020 
