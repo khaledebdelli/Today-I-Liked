@@ -22,6 +22,9 @@ Today I Liked Links
 
 
 
+
+### January 29, 2020 
+- [Modern Full-Stack Development with Nest.js, React, TypeScript, and MongoDB: Part 1](https://auth0.com/blog/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-1/) 
 ### January 21, 2020 
 - [MySQL User Permissions](https://flaviocopes.com/mysql-user-permissions/) 
 - [Scalable Redux architecture for React Projects with Redux-Saga and Typescript](https://itnext.io/scalable-redux-architecture-for-react-projects-with-redux-saga-and-typescript-f6afe1dece9b) 
