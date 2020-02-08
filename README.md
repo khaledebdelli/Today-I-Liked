@@ -24,6 +24,9 @@ Today I Liked Links
 
 
 
+
+### February 8, 2020 
+- [Top JavaScript New Features for 2020! - DEV Community 👩‍💻👨‍💻](https://dev.to/ykhokhaneshiya/top-javascript-2020-features-5h7d) 
 ### January 30, 2020 
 - [On npm install: Unhandled rejection Error: EACCES: permission denied - Stack Overflow](https://stackoverflow.com/questions/50639690/on-npm-install-unhandled-rejection-error-eacces-permission-denied) 
 ### January 29, 2020 
