@@ -25,6 +25,9 @@ Today I Liked Links
 
 
 
+
+### February 11, 2020 
+- [JAVA's Open Blog: Kariakoo Algorithm](https://blog.thedevopsnerdworld.com/2018/10/kariakoo-algorithm.html?m=1) 
 ### February 8, 2020 
 - [Top JavaScript New Features for 2020! - DEV Community 👩‍💻👨‍💻](https://dev.to/ykhokhaneshiya/top-javascript-2020-features-5h7d) 
 ### January 30, 2020 
