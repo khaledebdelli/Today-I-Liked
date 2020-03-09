@@ -26,6 +26,9 @@ Today I Liked Links
 
 
 
+
+### March 9, 2020 
+- [How to enable ES6 (and beyond) syntax with Node and Express](https://www.freecodecamp.org/news/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab/) 
 ### February 11, 2020 
 - [JAVA's Open Blog: Kariakoo Algorithm](https://blog.thedevopsnerdworld.com/2018/10/kariakoo-algorithm.html?m=1) 
 ### February 8, 2020 
