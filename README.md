@@ -28,6 +28,9 @@ Today I Liked Links
 
 
 
+
+### March 11, 2020 
+- [List of available rules - ESLint - Pluggable JavaScript linter](https://eslint.org/docs/rules/#stylistic-issues) 
 ### March 10, 2020 
 - [Implement Theming in React - DEV Community 👩‍💻👨‍💻](https://dev.to/kiani0x01/implement-theming-in-react-3ocg) 
 - [Stop Using JWTs as Session Tokens - DZone Web Dev](https://dzone.com/articles/stop-using-jwts-as-session-tokens) 
