@@ -31,6 +31,9 @@ Today I Liked Links
 
 
 
+
+### March 14, 2020 
+- [Streams For the Win: A Performance Comparison of Node.js Methods for Reading Large Datasets (Pt 2)](https://itnext.io/streams-for-the-win-a-performance-comparison-of-nodejs-methods-for-reading-large-datasets-pt-2-bcfa732fa40e) 
 ### March 13, 2020 
 - [CloudAMQP Console test](https://api.cloudamqp.com/console/00deb8d7-d73c-4cb7-89f3-4c76f08ab2ca/details) 
 - [Get Started with Elasticsearch, Kibana, and the Elastic Stack | Elastic](https://www.elastic.co/fr/start) 
