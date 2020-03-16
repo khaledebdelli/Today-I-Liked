@@ -33,6 +33,9 @@ Today I Liked Links
 
 
 
+
+### March 16, 2020 
+- [Detect When a Website Changes With Visualping - Better Programming - Medium](https://medium.com/better-programming/detect-when-a-website-changes-with-visualping-49c2e8149ad3) 
 ### March 15, 2020 
 - [Emotion - Media Queries](https://emotion.sh/docs/media-queries) 
 - [React Animation 👌](https://nearform.github.io/react-animation/) 
