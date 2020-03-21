@@ -40,6 +40,7 @@ Today I Liked Links
 
 ### March 21, 2020 
 - [MichielDeMey/express-jwt-permissions: Express middleware for JWT permissions](https://github.com/MichielDeMey/express-jwt-permissions) 
+- [passport-google-oauth20 - npm](https://www.npmjs.com/package/passport-google-oauth20) 
 ### March 20, 2020 
 - [Unités CSS: em, px, pt, cm, in…](https://www.w3.org/Style/Examples/007/units.fr.html) 
 - [6 Methods For Vertical Centering With CSS - Vanseo Design](http://vanseodesign.com/css/vertical-centering/) 
