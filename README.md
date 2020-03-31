@@ -40,6 +40,9 @@ Today I Liked Links
 
 
 
+
+### April 1, 2020 
+- [Scrum Master Interview Questions and Answers for 2019 | Edureka](https://www.edureka.co/blog/scrum-master-interview-questions/#AdvancedQuestions) 
 ### March 30, 2020 
 - [lamhieu-vk/nuz: Nuz is a fancy library to implements Micro Frontends compatible with ReactJS and may support more in the future. 🏃 Nuz is in beta! 🧪](https://github.com/lamhieu-vk/nuz) 
 ### March 26, 2020 
