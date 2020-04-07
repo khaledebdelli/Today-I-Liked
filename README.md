@@ -41,6 +41,9 @@ Today I Liked Links
 
 
 
+
+### April 7, 2020 
+- [How To Create An Audio/Video Recording App With React Native: An In-Depth Tutorial — Smashing Magazine](https://www.smashingmagazine.com/2018/04/audio-video-recording-react-native-expo/) 
 ### April 1, 2020 
 - [Scrum Master Interview Questions and Answers for 2019 | Edureka](https://www.edureka.co/blog/scrum-master-interview-questions/#AdvancedQuestions) 
 - [Making WebSocket in Sync With User Internet Connectivity in React Using Redux Part 1](https://codeburst.io/making-websocket-in-sync-with-user-internet-connectivity-in-react-using-redux-part-1-896d7c7e2da5) 
