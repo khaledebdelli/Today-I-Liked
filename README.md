@@ -51,6 +51,7 @@ Today I Liked Links
 - [Vinylizer — surma.dev](https://surma.dev/lab/vinylizer/) 
 - [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/) 
 - [Daishi Kato's blog](https://blog.axlight.com/) 
+- [Csv parsing | useWorker](https://useworker.netlify.com/docs/examples/examples-csv) 
 ### April 9, 2020 
 - [ww7npwxokk - CodeSandbox](https://codesandbox.io/s/ww7npwxokk?file=/src/index.js) 
 - [Using Custom Workbox Service Workers with Create-React-App (without ejecting, no third-party libraries) - Karan NA Gupta](https://karannagupta.com/using-custom-workbox-service-workers-with-create-react-app/) 
