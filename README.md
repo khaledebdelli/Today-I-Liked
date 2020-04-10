@@ -50,6 +50,7 @@ Today I Liked Links
 - [How I Developed React Hooks for Web Workers · Daishi Kato's blog](https://blog.axlight.com/posts/how-i-developed-react-hooks-for-web-workers/) 
 - [Vinylizer — surma.dev](https://surma.dev/lab/vinylizer/) 
 - [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/) 
+- [Daishi Kato's blog](https://blog.axlight.com/) 
 ### April 9, 2020 
 - [ww7npwxokk - CodeSandbox](https://codesandbox.io/s/ww7npwxokk?file=/src/index.js) 
 - [Using Custom Workbox Service Workers with Create-React-App (without ejecting, no third-party libraries) - Karan NA Gupta](https://karannagupta.com/using-custom-workbox-service-workers-with-create-react-app/) 
