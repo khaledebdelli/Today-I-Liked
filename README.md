@@ -48,6 +48,7 @@ Today I Liked Links
 
 ### April 12, 2020 
 - [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/) 
+- [Building a responsive camera component with React Hooks - LogRocket Blog](https://blog.logrocket.com/responsive-camera-component-react-hooks/) 
 ### April 11, 2020 
 - [Building Live Streaming App with Node.js and React – Quantizd](https://quantizd.com/building-live-streaming-app-with-node-js-and-react/) 
 - [Uploading Files to MongoDB with GridFS and Multer Using NodeJS - DEV Community 👩‍💻👨‍💻](https://dev.to/shubhambattoo/uploading-files-to-mongodb-with-gridfs-and-multer-using-nodejs-5aed) 
