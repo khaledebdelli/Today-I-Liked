@@ -47,6 +47,9 @@ Today I Liked Links
 
 
 
+
+### April 21, 2020 
+- [How I Built Doppel, my First Mobile App: Part 1 - Samuel Q Yang - Medium](https://medium.com/@samuel.q.yang/how-i-built-doppel-my-first-mobile-app-part-1-a1e54e40fe57) 
 ### April 16, 2020 
 - [How to style your React Apps with less code using Tailwind CSS and Styled Components | Ibrahima Ndaw](https://www.ibrahima-ndaw.com/blog/how-to-use-tailwind-styled-components/) 
 ### April 12, 2020 
