@@ -52,6 +52,7 @@ Today I Liked Links
 
 ### April 23, 2020 
 - [DevDocs API Documentation](https://devdocs.io/) 
+- [(Anno)Tater Demo](https://iamlocaljo.com/graphy-react-challenge/) 
 ### April 22, 2020 
 - [Method Draw](https://editor.method.ac/) 
 ### April 21, 2020 
