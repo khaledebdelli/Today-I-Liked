@@ -50,6 +50,9 @@ Today I Liked Links
 
 
 
+
+### April 26, 2020 
+- [An SEO approach to async components with loadable-components - LogRocket Blog](https://blog.logrocket.com/seo-approach-async-loadable-components/) 
 ### April 23, 2020 
 - [DevDocs API Documentation](https://devdocs.io/) 
 - [(Anno)Tater Demo](https://iamlocaljo.com/graphy-react-challenge/) 
