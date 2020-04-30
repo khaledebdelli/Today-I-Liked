@@ -51,6 +51,9 @@ Today I Liked Links
 
 
 
+
+### April 30, 2020 
+- [X556UV Barrette mémoire 8Go DDR4 | Accessoires Asus](https://www.accessoires-asus.com/barrette-memoire-8go-ddr4-64690-60060.htm#x556uv|l) 
 ### April 26, 2020 
 - [An SEO approach to async components with loadable-components - LogRocket Blog](https://blog.logrocket.com/seo-approach-async-loadable-components/) 
 ### April 23, 2020 
