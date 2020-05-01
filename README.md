@@ -53,6 +53,9 @@ Today I Liked Links
 
 
 
+
+### May 2, 2020 
+- [GetStream/Stream-Example-Create-React-App: A sample app built with the Create-React-App CLI](https://github.com/GetStream/Stream-Example-Create-React-App) 
 ### May 1, 2020 
 - [CodeQL for Java — Learn CodeQL](https://help.semmle.com/QL/learn-ql/java/ql-for-java.html) 
 - [Create a Video Conference Recorder using WebRTC, MediaDevices, and MediaRecorder. | Forio](https://forio.com/about/blog/create-video-conference-recorder-using-webrtc/) 
