@@ -55,6 +55,9 @@ Today I Liked Links
 
 
 
+
+### May 6, 2020 
+- [Deploying Node.js Applications with Ansible | Milos Bejda - All Things Automated](https://www.mbejda.com/deploying-node-applications-with-ansible/) 
 ### May 4, 2020 
 - [Deep Dive Into Node.js Module Architecture - ITNEXT](https://itnext.io/deep-dive-into-node-js-module-architecture-b80fbd22dacb) 
 ### May 2, 2020 
