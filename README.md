@@ -56,6 +56,9 @@ Today I Liked Links
 
 
 
+
+### May 8, 2020 
+- [How To Use Font Awesome 5 with React | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react) 
 ### May 6, 2020 
 - [Deploying Node.js Applications with Ansible | Milos Bejda - All Things Automated](https://www.mbejda.com/deploying-node-applications-with-ansible/) 
 ### May 4, 2020 
