@@ -62,6 +62,9 @@ Today I Liked Links
 
 
 
+
+### May 23, 2020 
+- [How To Set Up An Express API Backend Project With PostgreSQL — Smashing Magazine](https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgresql/) 
 ### May 19, 2020 
 - [3 - Mongoose · REST API Babel Express](https://javierfernandes.gitbooks.io/rest-api-babel-express/mongoose.html) 
 ### May 17, 2020 
