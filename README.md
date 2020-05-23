@@ -65,6 +65,7 @@ Today I Liked Links
 
 ### May 23, 2020 
 - [How To Set Up An Express API Backend Project With PostgreSQL — Smashing Magazine](https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgresql/) 
+- [Why you should avoid ORMs (with examples in Node.js) - LogRocket Blog](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/) 
 ### May 19, 2020 
 - [3 - Mongoose · REST API Babel Express](https://javierfernandes.gitbooks.io/rest-api-babel-express/mongoose.html) 
 ### May 17, 2020 
