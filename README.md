@@ -63,6 +63,9 @@ Today I Liked Links
 
 
 
+
+### May 24, 2020 
+- [Setup PostgreSQL with Sequelize in Express - RWieruch](https://www.robinwieruch.de/postgres-express-setup-tutorial) 
 ### May 23, 2020 
 - [How To Set Up An Express API Backend Project With PostgreSQL — Smashing Magazine](https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgresql/) 
 - [Why you should avoid ORMs (with examples in Node.js) - LogRocket Blog](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/) 
