@@ -70,6 +70,7 @@ Today I Liked Links
 ### May 28, 2020 
 - [Premiers pas avec Python - Learn | Microsoft Docs](https://docs.microsoft.com/fr-fr/learn/paths/python-first-steps/?WT.mc_id=learntv-video-learn) 
 - [An enterprise-style Node.js REST API setup with Docker Compose, Express and Postgres · Code with Hugo](https://codewithhugo.com/node-postgres-express-docker-compose/) 
+- [PostGIS installation in Ubuntu 18.04 LTS “Bionic Beaver” - Manan Patel](https://www.mananpatel.in/postgis-installation-in-ubuntu-18-04-lts-bionic-beaver/) 
 ### May 27, 2020 
 - [zalmoxisus/redux-devtools-extension: Redux DevTools extension.](https://github.com/zalmoxisus/redux-devtools-extension) 
 ### May 25, 2020 
