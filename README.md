@@ -68,6 +68,9 @@ Today I Liked Links
 
 
 
+
+### May 30, 2020 
+- [BEM by Example: Best Practices for BEM CSS Naming](https://seesparkbox.com/foundry/bem_by_example) 
 ### May 29, 2020 
 - [A Complete Guide to useEffect — Overreacted](https://overreacted.io/a-complete-guide-to-useeffect/) 
 ### May 28, 2020 
