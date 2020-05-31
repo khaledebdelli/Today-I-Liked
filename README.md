@@ -69,6 +69,9 @@ Today I Liked Links
 
 
 
+
+### May 31, 2020 
+- [(67) Build and Deploy a React PWA - Why Progressive Web Apps are the Future of the Web - YouTube](https://www.youtube.com/watch?v=IaJqMcOMuDM) 
 ### May 30, 2020 
 - [BEM by Example: Best Practices for BEM CSS Naming](https://seesparkbox.com/foundry/bem_by_example) 
 ### May 29, 2020 
