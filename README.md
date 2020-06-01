@@ -70,6 +70,9 @@ Today I Liked Links
 
 
 
+
+### June 1, 2020 
+- [windups](https://windups.gwil.co/api#text-from-children) 
 ### May 31, 2020 
 - [(67) Build and Deploy a React PWA - Why Progressive Web Apps are the Future of the Web - YouTube](https://www.youtube.com/watch?v=IaJqMcOMuDM) 
 ### May 30, 2020 
