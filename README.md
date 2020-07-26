@@ -78,6 +78,9 @@ Today I Liked Links
 
 
 
+
+### July 26, 2020 
+- [Dynamic form with React Hooks — Building a cost table | by Binh Tran | Medium](https://medium.com/@thanhbinh.tran93/dynamic-form-with-react-hooks-building-a-cost-table-2856b0de74dd) 
 ### July 17, 2020 
 - [Sending bulk SMS in Node.js using Twilio - GeeksforGeeks](https://www.geeksforgeeks.org/sending-bulk-sms-in-node-js-using-twilio/) 
 ### July 11, 2020 
