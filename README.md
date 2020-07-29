@@ -80,6 +80,9 @@ Today I Liked Links
 
 
 
+
+### July 29, 2020 
+- [Deploying create-react-app with Nginx and Ubuntu | by Timothy Ko | Medium](https://medium.com/@timmykko/deploying-create-react-app-with-nginx-and-ubuntu-e6fe83c5e9e7) 
 ### July 28, 2020 
 - [react-window-communication-hook - npm](https://www.npmjs.com/package/react-window-communication-hook) 
 - [11 Useful Custom React Hooks for Your Next Web App | by Chidume Nnamdi 🔥💻🎵🎮 | Bits and Pieces](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c) 
