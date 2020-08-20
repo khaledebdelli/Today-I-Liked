@@ -82,6 +82,9 @@ Today I Liked Links
 
 
 
+
+### August 20, 2020 
+- [ChrisLowe-Takor/react-leaflet-distortable-imageoverlay: Scale, skew, rotate and traslate image overlays](https://github.com/ChrisLowe-Takor/react-leaflet-distortable-imageoverlay) 
 ### August 19, 2020 
 - [Sandbox — Yandex Technologies](https://tech.yandex.com/maps/jsbox/2.1/balloon_ajax) 
 - [Edit fiddle - JSFiddle - Code Playground](http://jsfiddle.net/mbun9c2e/3/) 
