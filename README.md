@@ -83,6 +83,9 @@ Today I Liked Links
 
 
 
+
+### October 11, 2020 
+- [Ubuntu 20.04 GPG error: The following signatures couldn't be verified - LinuxConfig.org](https://linuxconfig.org/ubuntu-20-04-gpg-error-the-following-signatures-couldn-t-be-verified) 
 ### August 20, 2020 
 - [ChrisLowe-Takor/react-leaflet-distortable-imageoverlay: Scale, skew, rotate and traslate image overlays](https://github.com/ChrisLowe-Takor/react-leaflet-distortable-imageoverlay) 
 ### August 19, 2020 
