@@ -84,6 +84,9 @@ Today I Liked Links
 
 
 
+
+### October 16, 2020 
+- [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) 
 ### October 11, 2020 
 - [Ubuntu 20.04 GPG error: The following signatures couldn't be verified - LinuxConfig.org](https://linuxconfig.org/ubuntu-20-04-gpg-error-the-following-signatures-couldn-t-be-verified) 
 ### August 20, 2020 
