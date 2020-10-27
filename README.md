@@ -85,6 +85,9 @@ Today I Liked Links
 
 
 
+
+### October 27, 2020 
+- [React Redux Tutorial: Internationalization with react-i18n-redux – The Phrase Blog – Software Localization Experts](https://phrase.com/blog/posts/react-redux-tutorial-internationalization-with-react-i18n-redux/#The_Demo_App) 
 ### October 16, 2020 
 - [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) 
 ### October 11, 2020 
