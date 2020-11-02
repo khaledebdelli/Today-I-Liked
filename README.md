@@ -86,6 +86,9 @@ Today I Liked Links
 
 
 
+
+### November 2, 2020 
+- [Thanks for the Memory(s) Part I. While trying to run a build for my… | by Matthew Croak | The Startup | Medium](https://medium.com/swlh/thanks-for-the-memory-s-part-i-8f1554da8d) 
 ### October 27, 2020 
 - [React Redux Tutorial: Internationalization with react-i18n-redux – The Phrase Blog – Software Localization Experts](https://phrase.com/blog/posts/react-redux-tutorial-internationalization-with-react-i18n-redux/#The_Demo_App) 
 ### October 16, 2020 
