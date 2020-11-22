@@ -87,6 +87,9 @@ Today I Liked Links
 
 
 
+
+### November 22, 2020 
+- [pour-les-personnes-non-voyantes-ou-malvoyantes - Explore OrCam](https://explore.orcam.com/fr/pour-les-personnes-non-voyantes-ou-malvoyantes/?utm_source=YouTube&utm_medium=display&utm_campaign=B2C_ME_YT_FR_User_RON_Messi&gclid=CjwKCAiAtej9BRAvEiwA0UAWXtBXiw__SMdFGBxcoYrIbWU0wCve0_CPKVlMDNtr5GdARubHaumqbxoCAtsQAvD_BwE#mainForm) 
 ### November 2, 2020 
 - [Thanks for the Memory(s) Part I. While trying to run a build for my… | by Matthew Croak | The Startup | Medium](https://medium.com/swlh/thanks-for-the-memory-s-part-i-8f1554da8d) 
 ### October 27, 2020 
