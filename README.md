@@ -88,6 +88,9 @@ Today I Liked Links
 
 
 
+
+### December 9, 2020 
+- [Developing on the web platform  |  Google Developers](https://developers.google.com/learn/topics/web?hl=en) 
 ### November 22, 2020 
 - [pour-les-personnes-non-voyantes-ou-malvoyantes - Explore OrCam](https://explore.orcam.com/fr/pour-les-personnes-non-voyantes-ou-malvoyantes/?utm_source=YouTube&utm_medium=display&utm_campaign=B2C_ME_YT_FR_User_RON_Messi&gclid=CjwKCAiAtej9BRAvEiwA0UAWXtBXiw__SMdFGBxcoYrIbWU0wCve0_CPKVlMDNtr5GdARubHaumqbxoCAtsQAvD_BwE#mainForm) 
 ### November 2, 2020 
