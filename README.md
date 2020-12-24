@@ -89,6 +89,9 @@ Today I Liked Links
 
 
 
+
+### December 24, 2020 
+- [Data Visualization Libraries for React Developers in 2020 | by Veronika Rovnik | DailyJS | Medium](https://medium.com/dailyjs/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8) 
 ### December 9, 2020 
 - [Developing on the web platform  |  Google Developers](https://developers.google.com/learn/topics/web?hl=en) 
 ### November 22, 2020 
