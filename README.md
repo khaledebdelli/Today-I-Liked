@@ -91,6 +91,9 @@ Today I Liked Links
 
 
 
+
+### January 20, 2021 
+- [Virtual, Computed Columns in PostgreSQL 12 | robconery](https://rob.conery.io/2019/10/24/virtual-computed-columns-in-postgresql-12/) 
 ### January 4, 2021 
 - [React-Canvas-Draw example - CodeSandbox](https://codesandbox.io/s/6lv410914w?file=/src/index.js) 
 ### December 24, 2020 
