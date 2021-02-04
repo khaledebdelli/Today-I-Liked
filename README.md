@@ -92,6 +92,9 @@ Today I Liked Links
 
 
 
+
+### February 4, 2021 
+- [CircleCI: Auto-Deploy my Code! > Animated Deployment with Ansistrano | SymfonyCasts](https://symfonycasts.com/screencast/ansistrano/ci-auto-deploy) 
 ### January 20, 2021 
 - [Virtual, Computed Columns in PostgreSQL 12 | robconery](https://rob.conery.io/2019/10/24/virtual-computed-columns-in-postgresql-12/) 
 ### January 4, 2021 
