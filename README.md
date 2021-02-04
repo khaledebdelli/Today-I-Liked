@@ -95,6 +95,7 @@ Today I Liked Links
 
 ### February 4, 2021 
 - [CircleCI: Auto-Deploy my Code! > Animated Deployment with Ansistrano | SymfonyCasts](https://symfonycasts.com/screencast/ansistrano/ci-auto-deploy) 
+- [How to SSH to an AWS EC2 Instance Running Linux from a CircleCI Build | by Mohamad Al Sayadi | Medium](https://medium.com/@Sayadi/how-to-ssh-to-an-aws-ec2-instance-running-linux-from-a-circleci-build-fffa45003715) 
 ### January 20, 2021 
 - [Virtual, Computed Columns in PostgreSQL 12 | robconery](https://rob.conery.io/2019/10/24/virtual-computed-columns-in-postgresql-12/) 
 ### January 4, 2021 
