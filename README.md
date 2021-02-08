@@ -94,6 +94,9 @@ Today I Liked Links
 
 
 
+
+### February 8, 2021 
+- [Understanding And Implementing Password Hashing In NodeJS. - DEV Community](https://dev.to/aditya278/understanding-and-implementing-password-hashing-in-nodejs-2m84) 
 ### February 7, 2021 
 - [CountAPI - Free counting API](https://countapi.xyz/) 
 ### February 4, 2021 
