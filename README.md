@@ -95,6 +95,9 @@ Today I Liked Links
 
 
 
+
+### February 9, 2021 
+- [6 optimization tips for your CI config | CircleCI](https://circleci.com/blog/six-optimization-tips-for-your-config/) 
 ### February 8, 2021 
 - [Understanding And Implementing Password Hashing In NodeJS. - DEV Community](https://dev.to/aditya278/understanding-and-implementing-password-hashing-in-nodejs-2m84) 
 ### February 7, 2021 
