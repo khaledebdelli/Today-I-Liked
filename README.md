@@ -98,6 +98,7 @@ Today I Liked Links
 
 ### February 9, 2021 
 - [6 optimization tips for your CI config | CircleCI](https://circleci.com/blog/six-optimization-tips-for-your-config/) 
+- [Nginx + Create-React-App + gzip: Tripple Your Lighthouse Performance Score in 5 Minutes | by Florian | ITNEXT](https://itnext.io/nginx-create-react-app-gzip-tripple-your-lighthouse-performance-score-in-5-minutes-627465c3f445) 
 ### February 8, 2021 
 - [Understanding And Implementing Password Hashing In NodeJS. - DEV Community](https://dev.to/aditya278/understanding-and-implementing-password-hashing-in-nodejs-2m84) 
 ### February 7, 2021 
