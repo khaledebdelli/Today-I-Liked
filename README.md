@@ -98,6 +98,9 @@ Today I Liked Links
 
 
 
+
+### March 15, 2021 
+- [Handling JWT in Admin Apps the Right Way](https://marmelab.com/blog/2020/07/02/manage-your-jwt-react-admin-authentication-in-memory.html) 
 ### March 10, 2021 
 - [Comparaison entre un merge et un rebase | Atlassian Git Tutorial](https://www.atlassian.com/fr/git/tutorials/merging-vs-rebasing) 
 ### February 11, 2021 
