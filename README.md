@@ -99,6 +99,9 @@ Today I Liked Links
 
 
 
+
+### March 31, 2021 
+- [Comment sécuriser Nginx avec Let's Encrypt sur Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04-fr) 
 ### March 15, 2021 
 - [Handling JWT in Admin Apps the Right Way](https://marmelab.com/blog/2020/07/02/manage-your-jwt-react-admin-authentication-in-memory.html) 
 ### March 10, 2021 
