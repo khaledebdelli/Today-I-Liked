@@ -101,6 +101,9 @@ Today I Liked Links
 
 
 
+
+### April 26, 2021 
+- [Installing Docker CE on elementary OS 5.0 Juno](https://blog.avojak.com/2019/01/18/installing-docker-on-elementary-os/) 
 ### April 23, 2021 
 - [Enhance your frontend state management with view models | by Tobias Uhlig | Apr, 2021 | ITNEXT](https://itnext.io/enhance-your-frontend-state-management-with-view-models-7bf49e1a0991) 
 ### March 31, 2021 
