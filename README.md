@@ -103,6 +103,9 @@ Today I Liked Links
 
 
 
+
+### July 15, 2021 
+- [Résoudre les problèmes liés à l'exécution de commandes sudo sur une instance EC2 Linux](https://aws.amazon.com/fr/premiumsupport/knowledge-center/ec2-sudo-commands/) 
 ### July 5, 2021 
 - [sundowndev/phoneinfoga: Information gathering & OSINT framework for phone numbers](https://github.com/sundowndev/phoneinfoga) 
 ### April 26, 2021 
