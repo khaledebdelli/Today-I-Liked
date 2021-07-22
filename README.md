@@ -104,6 +104,9 @@ Today I Liked Links
 
 
 
+
+### July 22, 2021 
+- [Quels sont les différents types de test logiciel ? - All4Test](https://www.all4test.fr/differents-test-logiciel/) 
 ### July 15, 2021 
 - [Résoudre les problèmes liés à l'exécution de commandes sudo sur une instance EC2 Linux](https://aws.amazon.com/fr/premiumsupport/knowledge-center/ec2-sudo-commands/) 
 ### July 5, 2021 
